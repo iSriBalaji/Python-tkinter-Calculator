@@ -2,11 +2,15 @@
 Developed Calculator using **Python Tkinter** GUI
 ### UIDesign
 <img align="left" alt="CalX - Sri Balaji" width="450px" src="https://i.imgur.com/tVrTZCN.png" />
-</br>
+<br />
+
 ### Packages Used
+
 - tkinter
 - os
-</br>
+<br />
 _Linkedin_
-</br> 
+<br />
+
 ###### - [Sri Balaji Muruganandam](https://www.linkedin.com/in/isribalaji/)
+
